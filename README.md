@@ -16,7 +16,7 @@ A timeline builder that will allow users to create and edit timelines in real ti
 We will know it will be successful if it works.
 
 ## Architecture Diagram
-Nothing yet.
+![Architecture] (https://github.com/oplS16projects/Timeline-Thing/blob/master/architecture.JPG?raw=true)
 
 ## Schedule
 
