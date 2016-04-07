@@ -31,7 +31,7 @@ Nothing yet.
 ### Jacob Suarez @Onamar
 Jake is the team lead. Additionally, Jake will work on...
 
-### Tyrone Turrel @
+### Tyrone Turrel @tturrell
 Will work on...
 
 ### Saurabh Verma @sv-uml
