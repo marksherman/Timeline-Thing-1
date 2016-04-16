@@ -7,7 +7,10 @@ A Timeline builder to help plan large scale projects
 The idea is based on building a timeline from an existing database, so we will be working with databases like the ones from earlier in the semester.
 
 ### Data set or other source materials
-None, so far.
+Racket libraries:
+db
+web-server/templates
+xml
 
 ### Deliverable and Demonstration
 A timeline builder that will allow users to create and edit timelines in real time.
@@ -21,6 +24,7 @@ We will know it will be successful if it works.
 ## Schedule
 
 ### First Milestone (Fri Apr 15)
+Basic webpage and database structure
 
 ### Second Milestone (Fri Apr 22)
 
@@ -29,7 +33,7 @@ We will know it will be successful if it works.
 ## Group Responsibilities
 
 ### Jacob Suarez @Onamar
-Jake is the team lead. Additionally, Jake will work on...
+Jake is the team lead. Additionally, Jake will work on the database.
 
 ### Tyrone Turrel @tturrell
 Will work on...
